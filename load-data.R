@@ -1,3 +1,6 @@
+##The program will be slow, when you create the first plot, because of downloading files
+##Please use R console command: source("plot1.r")
+
 ##Loading data and get required subset data
 if(!file.exists("data/data.csv")) {
 
